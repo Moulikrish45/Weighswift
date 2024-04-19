@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77813428047",
+    "project_id": "payloaders-e0571",
+    "storage_bucket": "payloaders-e0571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77813428047:android:809fe68ff969b4f2845f3a",
+        "android_client_info": {
+          "package_name": "com.example.payload_detecter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4f-j7Eggeup49-hDAL_VUwNCC0hsqr4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
